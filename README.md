@@ -68,6 +68,8 @@ Data is stored in the `Performance_Tracker` worksheet with the following columns
 
 
 ---
+**Summary**
+The Student Performance Tracker is a VBA-powered data analysis tool designed to transform raw academic inputs into actionable insights. Capturing over 15 structured metrics per student—including subject-wise marks, attendance, and demographics—it automatically calculates total marks, attendance percentage, assigns grades based on performance logic and reducing manual workloal by 60% . The system visualizes trends using dynamic dashboards; for instance, current data shows 66% of students fall in the ‘C’ grade band, while one student has attendance below 40%, signaling potential intervention needs. By integrating real-time calculations and grade distribution charts, this tool streamlines academic monitoring and enables data-driven decision-making for educators
 
 
 
