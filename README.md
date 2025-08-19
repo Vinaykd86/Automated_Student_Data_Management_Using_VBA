@@ -1,4 +1,4 @@
-# 📘 Student Performance Tracker (Excel VBA Project)
+# 📘 Student Performance Tracker 
 
 This is a complete Excel VBA-based system that allows you to Collect, manage and analyze student academic performance using a simple **UserForm interface** enabling performance tracking and actionable insights. It's designed for **schools, teachers, or academic institutions** looking for an easy-to-use offline solution to track **marks, attendance, grades**, and generate **dashboards** with charts.
 
